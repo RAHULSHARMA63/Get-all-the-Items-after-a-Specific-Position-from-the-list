@@ -1,0 +1,1 @@
+# Get-all-the-Items-after-a-Specific-Position-from-the-list
